@@ -32,5 +32,5 @@ If you find our work helpful for your research, please consider citing our paper
   title={Evaluating Time Series Understanding in Language Models via Code Generation},
   author={Tan, Mingtian and Bruss, C. Bayan and Nguyen, Nam and Evans, David and Hartvigsen, Thomas},
   journal={arXiv preprint},
-  year={2025}
+  year={2026}
 }
